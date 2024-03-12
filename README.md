@@ -25,6 +25,8 @@ I'm passionate about understanding the intricacies of natural neural networks an
 
 I'm obsessed with music and you'll rarely find me without my headphones on.
 
+In my free time I'm working out, spend time in nature, and taking photo. 
+
 </blockquote>
     
 ----
