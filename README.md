@@ -82,7 +82,7 @@ I'm obsessed with music and you'll rarely find me without my headphones on.
 ----
 </details>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/amdsmi/amdsmi/blob/output/github-contribution-grid-snake.svg)
 
 </details>
 
