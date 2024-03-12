@@ -82,7 +82,7 @@ I'm obsessed with music and you'll rarely find me without my headphones on.
 ----
 </details>
 
-![snake gif](https://github.com/amdsmi/amdsmi/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/amdsmi/amdsmi/blob/output/github-contribution-grid-snake.svg)
 
 </details>
 
