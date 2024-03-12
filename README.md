@@ -15,7 +15,7 @@
 <details>
   <summary><b>👤 About</b></summary>
     <p>
-      <img align="right" width="250" src="doc/nature.jpg" alt="Alicia Sykes" />
+      <img align="right" width="150" src="doc/nature.jpg" alt="nature" />
       
 <blockquote>
 
