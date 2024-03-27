@@ -1,4 +1,6 @@
-![AMDSMI](doc/amdsmi.png)
+[//]: # (![AMDSMI]&#40;doc/amdsmi.png&#41;)
+
+<img align="center" width="500" src="doc/amdsmi.png" alt="nature" />
 
 # <div align="center">Hi 👋 I'm Ahmad</div>
 
