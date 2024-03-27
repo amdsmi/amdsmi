@@ -1,7 +1,6 @@
-[//]: # (![AMDSMI]&#40;doc/amdsmi.png&#41;)
-
-<img align="center" width="500" src="doc/amdsmi.png" alt="nature" />
-
+<div style="display: flex; justify-content: center;">
+    <img align="center" width="600" src="doc/amdsmi.png" alt="nature" />
+</div>
 # <div align="center">Hi 👋 I'm Ahmad</div>
 
 
