@@ -7,7 +7,7 @@
 
 
 <!-- Outer collapsible -->  
-<details>
+<details open>
    <summary><b> Expand for more 🔽</b></summary>
   
    <br>
