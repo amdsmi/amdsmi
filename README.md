@@ -1,7 +1,7 @@
 <div style="display: flex; justify-content: center;">
     <img align="center" width="600" src="doc/amdsmi.png" alt="nature" />
 </div>
-# <div align="center">Hi 👋 I'm Ahmad</div>
+<div align="center"><h1>Hi 👋 I'm Ahmad</h1></div>
 
 
 
